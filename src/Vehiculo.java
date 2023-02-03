@@ -13,4 +13,11 @@ public class Vehiculo {
     
   }
   
+  public void mostrarMarca() {
+    
+    System.out.print("La marca del vehículo es: " + marca);
+    
+  }
+  
+  
 }
