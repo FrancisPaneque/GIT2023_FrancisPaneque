@@ -19,5 +19,10 @@ public class Vehiculo {
     
   }
   
+  public void muestraModelo() {
+    
+    System.out.print("El modelo del vehículo es:" + modelo);
+    
+  }
   
 }
